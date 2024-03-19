@@ -61,6 +61,6 @@ Start the server dev mode
 
 
 ## Live Demo
-Explore the live demo of the marketplace application at:
+Explore the application at:
 
-[DEMO](https://marketplace-simulate-frontend.vercel.app/)
+[DEMO](https://pokedex-frontend-dusky.vercel.app/)
